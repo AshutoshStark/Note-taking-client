@@ -1,6 +1,6 @@
 
 
-export const API_URL = "https://notecompass-api-express.vercel.app/api";
+export const API_URL = "https://note-taking-api-sigma.vercel.app/api";
 export const MAX_NO_SEMESTERS = 8;
 export const ThemeDarkPurple = 'rgb(45,45,153)';
 export const ThemeLigthPurple = 'rgb(97, 97, 230)';
